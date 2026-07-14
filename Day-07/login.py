@@ -17,7 +17,6 @@ else:
 
 usr  = "admin"
 psw = "123456"
-
 attempt = 3
 
 while attempt > 0:
